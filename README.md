@@ -20,6 +20,19 @@ A vertical, floating Dock for jailbroken iPhones, with macOS-style magnification
   - Set a custom icon corner radius, from square to circle. Folders, badges and widgets stay correct.
 - Settings in **English** and **Vietnamese**.
 
+## Screenshots
+
+<p>
+<img src="screenshots/1-dock.jpg" width="200" alt="The vertical Dock on the Home Screen">
+<img src="screenshots/2-magnification.jpg" width="200" alt="macOS-style magnification">
+<img src="screenshots/3-round-icons.jpg" width="200" alt="Round icons with badges">
+</p>
+<p>
+<img src="screenshots/4-dock-over-apps.jpg" width="200" alt="The Dock pulled in over an app">
+<img src="screenshots/5-settings.jpg" width="200" alt="Settings">
+<img src="screenshots/6-settings-home-screen.jpg" width="200" alt="Home Screen settings">
+</p>
+
 ## Compatibility
 
 - iOS 17 and iOS 18
